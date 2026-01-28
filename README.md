@@ -1,12 +1,8 @@
-# ☕ CoffeeShop Program 
-
----
+# ☕ CoffeeShop Program
 
 A Python-based order management system for coffee shops. This project simulates a point-of-sale terminal, allowing users to add and remove items from an order and perform checkout with automatic total calculation.
 
 ![App Demonstrations](assets/gifdemo.gif)
-
----
 
 ## 🔨 Features
 
@@ -15,8 +11,6 @@ A Python-based order management system for coffee shops. This project simulates 
 - **Automatic Calculation**: Total order amount in real time.
 - **Error Handling**: Includes try/except blocks to handle unexpected errors
 - **POO**: Class-based structure (Product and Orders)
-
----
 
 ## 📁 Folder structure
 
@@ -33,8 +27,6 @@ CoffeeShop/
 ├── .gitignore
 └── README.md
 ```
-
----
 
 ## ⚙️ How to run the project
 
@@ -59,13 +51,10 @@ $ cd coffee-shop-system
 $ python src/main.py
 ```
 
----
-
 ## 🛠️ Built With
 - [Python](https://www.python.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
----
 
 ## 📝 Author
 Developed by [Luis Otávio](https://www.linkedin.com/in/luisotavio2905/) 🧑🏻‍💻
