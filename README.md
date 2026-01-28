@@ -68,4 +68,4 @@ $ python src/main.py
 ---
 
 ## 📝 Author
-Made with ❤️ by [Luis Otávio](https://www.linkedin.com/in/luisotavio2905/)
+Developed by [Luis Otávio](https://www.linkedin.com/in/luisotavio2905/) 🧑🏻‍💻
