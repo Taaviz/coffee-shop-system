@@ -1,0 +1,13 @@
+# Ignora ambiente virtual (pesado)
+.venv/
+venv/
+
+# Ignora arquivos temporários (lixo)
+__pycache__/
+*.pyc
+
+# Ignora configurações do PyCharm (Opcional, recomendável)
+.idea/
+
+# Ignora arquivos de variáveis de ambiente (senhas)
+.env
