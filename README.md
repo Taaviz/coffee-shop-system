@@ -4,12 +4,14 @@ A Python-based order management system for coffee shops. This project simulates 
 
 ![App Demonstrations](assets/gifdemo.gif)
 
+## 🎯 Learning Objectives
+This project was created to practice Python fundamentals, specifically focusing on Object-Oriented Programming (OOP), logic algorithms, and data structures.
+
 ## 🔨 Features
 
 - **Interactive menu**: Product and price display
 - **Order management**: Add and remove items from your cart
 - **Automatic Calculation**: Total order amount in real time.
-- **Error Handling**: Includes try/except blocks to handle unexpected errors
 - **POO**: Class-based structure (Product and Orders)
 
 ## 📁 Folder structure
