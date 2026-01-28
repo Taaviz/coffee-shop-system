@@ -12,7 +12,7 @@ This project was created to practice Python fundamentals, specifically focusing 
 - **Interactive menu**: Product and price display
 - **Order management**: Add and remove items from your cart
 - **Automatic Calculation**: Total order amount in real time.
-- **POO**: Class-based structure (Product and Orders)
+- **OOP**: Class-based structure (Product and Orders)
 
 ## 📁 Folder structure
 
