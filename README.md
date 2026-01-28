@@ -50,10 +50,10 @@ Before starting, you will need to have the following tools installed on your com
 
 ```
 # Clone this repository
-$ git clone <link-do-seu-repositorio-aqui>
+$ git clone https://github.com/Taaviz/coffee-shop-system.git
 
 # Access the project folder in the terminal/cmd.
-$ cd CoffeeShop
+$ cd coffee-shop-system
 
 # Run the application
 $ python src/main.py
